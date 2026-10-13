@@ -2,7 +2,7 @@
 
 > Data lake en AWS local (S3, Glue y Athena con Floci): tres capas en Parquet, catálogo y un tablero en D3.js.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Data lake en AWS local · **Módulo del programa:** 07 · Capstone, reto 1
+**Estado:** 🚧 sin empezar · **Tipo:** Data lake en AWS local · **Módulo del programa:** 08 · Capstone, reto 1
 
 ## La problemática
 
