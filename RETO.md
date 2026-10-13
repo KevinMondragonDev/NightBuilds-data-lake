@@ -1,6 +1,6 @@
 # 🏞️ Reto 1 — Data lake en AWS local
 
-**Repositorio:** `sideproject-data-lake` · **Nivel:** intermedio · **Entorno:** Floci (S3, Glue, Athena) · **Método y evaluación:** [`README.md`](docs/METODO.md)
+**Repositorio:** `NightBuilds-data-lake` · **Nivel:** intermedio · **Entorno:** Floci (S3, Glue, Athena) · **Método y evaluación:** [`README.md`](docs/METODO.md)
 
 ## El caso
 
